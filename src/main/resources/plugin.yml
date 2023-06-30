@@ -1,0 +1,9 @@
+name: FloatingChatFix
+version: '${project.version}'
+main: top.floatingchatfix.FloatingChatFix
+api-version: 1.16
+prefix: FLCHAT
+load: STARTUP
+authors: [idk]
+description: Special 4 JSRP
+website: https://js-rp.top
